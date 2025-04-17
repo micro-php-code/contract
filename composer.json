@@ -1,0 +1,10 @@
+{
+    "name": "microphp/contract",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Microphp\\Contract\\": "src/"
+        }
+    },
+    "require": {}
+}
