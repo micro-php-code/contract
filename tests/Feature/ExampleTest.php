@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 use MicroPHP\Contract\Enum\Attributes\EnumClass;
 use MicroPHP\Contract\Enum\Attributes\EnumProperty;
 use MicroPHP\Contract\Enum\EnumHelper;

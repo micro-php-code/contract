@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace MicroPHP\Contract\Enum;
 
-use ReflectionClass;
-use ReflectionException;
 use MicroPHP\Contract\Enum\Attributes\EnumClass;
 use MicroPHP\Contract\Enum\Attributes\EnumProperty;
+use ReflectionClass;
+use ReflectionException;
 
 class EnumPropertyCollect
 {

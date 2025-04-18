@@ -7,7 +7,7 @@ namespace MicroPHP\Contract\Enum;
 use ArrayAccess;
 use MicroPHP\Contract\ArrayAble;
 
-class EnumItem implements Arrayable, ArrayAccess
+class EnumItem implements ArrayAble, ArrayAccess
 {
     use ArrayAccessTrait;
 
